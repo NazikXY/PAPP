@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">v2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="menu_home">Список заказов</string>
+    <string name="menu_gallery">Текущий заказ</string>
+    <string name="menu_slideshow">Прочее</string>
+
+    <string name="dialog_price">Цена за ед.</string>
+    <string name="dialog_count">Количество</string>
+    <string name="dialog_btn_neg">Отмена</string>
+    <string name="dialog_btn_pos">Подтвердить</string>
+
+    <string name="order_check_box">Готово</string>
+
+    <string name="order_status_complete">Завершен</string>
+    <string name="order_status_uncoplete">Не завершен</string>
+
+
+
+</resources>
